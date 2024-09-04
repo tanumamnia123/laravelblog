@@ -16,3 +16,4 @@ connect .env file
 Create the Database and Tables
 php artisan migrate
 ![database1](https://github.com/user-attachments/assets/4adc814c-dfb5-43b8-a73b-d356317ae65f)
+https://github.com/user-attachments/assets/43c8dc0c-dd9e-447f-ae54-75f9aafac570
