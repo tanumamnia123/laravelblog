@@ -9,4 +9,4 @@ Laravel Installer (version  11.22.0)
 . Install PHP Dependencies
 Run Composer to install the PHP dependencies: 
 command composer install 
-![databasecreenshot](https://github.com/user-attachments/assets/3a666b4a-1374-4c56-b691-9f93a4745b12)
+![database1](https://github.com/user-attachments/assets/4adc814c-dfb5-43b8-a73b-d356317ae65f)
