@@ -9,7 +9,7 @@ Laravel Installer (version  11.22.0)
 . Install PHP Dependencies
 Run Composer to install the PHP dependencies: 
 command composer install 
-# Configure the Database
+# Configure the Database 
 connect databse configration 
 create table post
 connect .env file
