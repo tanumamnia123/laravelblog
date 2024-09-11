@@ -5,9 +5,18 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class postmodel extends Model
+class PostModel extends Model
 {
     use HasFactory;
+    // the table associate with model
+    
     protected $table = "posts";
-    protected $fillable = ['author_name','title','content'];
+
+    // the table filed name assign 
+
+   protected $fillable = [
+        'author_name',
+        'title',
+        'content'
+    ];
 }

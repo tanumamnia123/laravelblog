@@ -5,9 +5,7 @@
      <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-  
-
-     <div class="container w-50">
+  <div class="container w-50">
         <h1 class="mt-4 text-success">Edit Post</h1>
         <form action="{{ route('posts.update', $post->id) }}" class="border mt-2 p-3"  method="POST"  >
             @csrf
